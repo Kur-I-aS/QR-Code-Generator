@@ -20,4 +20,5 @@ A Python 3.12 desktop application to generate QR codes with optional center logo
 ## How to Run
 ```bash
 pip install -r requirements.txt
-python qr_app.py
+python app.py
+
